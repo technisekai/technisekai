@@ -1,6 +1,7 @@
 ### Hi there 👋, Im Widi Afandi
 
 - 🌱 I’m currently learning Cyber Sec and Machine Learning
+- :house: Pekalongan, Jawa Tengah
 - :arrow_up: 20 years old
 - :male_sign: Male
 - ⚡ Fun fact: I'm fall in love with linux and python
