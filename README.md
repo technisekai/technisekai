@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1. hshdhshjsd
-2. shdgshdgsjd
-3. ahgdgahdgasgdjas
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
