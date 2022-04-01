@@ -4,7 +4,7 @@
 - :house: Pekalongan, Jawa Tengah
 - :arrow_up: 20 years old
 - :male_sign: Male
-- ⚡ Fun fact: I'm fall in love with linux and python
+- ⚡ Fun fact: I'm interesting in linux and python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technisekai&langs_count=5&theme=tokyonight)](https://github.com/technisekai/github-readme-stats)
 
