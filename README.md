@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Cyber Sec and Machine Learning
 - :house: Pekalongan, Jawa Tengah
-- :arrow_up: 20 years old
+- :arrow_up: 21 years old
 - :male_sign: Male
 - ⚡ Fun fact: I'm interesting in linux and python
 
