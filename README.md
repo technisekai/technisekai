@@ -1,10 +1,10 @@
 ### Hi there 👋, Im Widi Afandi
 
-- 🌱 I’m currently learning Cyber Sec and Machine Learning
+- 🌱 I’m focus at Artificial Intelligent and Mobile Development (Flutter)
 - :house: Pekalongan, Jawa Tengah
-- :arrow_up: 21 years old
+- :arrow_up: 22 years old
 - :male_sign: Male
-- ⚡ Fun fact: I'm interesting in linux and python
+- ⚡ Fun fact: i'm linucc fanboy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technisekai&langs_count=5&theme=tokyonight)](https://github.com/technisekai/github-readme-stats)
 
