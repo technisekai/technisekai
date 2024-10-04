@@ -1,11 +1,6 @@
 ### Hi there 👋, Im Widi Afandi
 
-- 🌱 I’m focus at Artificial Intelligent and Mobile Development (Flutter)
-- :house: Pekalongan, Jawa Tengah
-- :arrow_up: 22 years old
-- :male_sign: Male
-- ⚡ Fun fact: i'm linucc fanboy
-
+- 🌱 I’m focus at Data to gain information from trash
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technisekai&langs_count=5&theme=tokyonight)](https://github.com/technisekai/github-readme-stats)
 
 <!-- Github stat
