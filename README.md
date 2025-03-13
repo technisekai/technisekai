@@ -1,6 +1,7 @@
 ### Hi there 👋, Im Widi Afandi
 
-- 🌱 I’m focus at Data to gain information from trash
+- 🌱 Lazy people which automate the data
+- 🧐 Still learns infrastructure and data
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technisekai&langs_count=5&theme=tokyonight)](https://github.com/technisekai/github-readme-stats)
 
