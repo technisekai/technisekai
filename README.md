@@ -1,7 +1,7 @@
 ### Hi there 👋, Im Widi Afandi
 
-- 🌱 Lazy people which automate the data
-- 🧐 Still learns infrastructure and data
+- 🌱 Lazy people who loves automation
+- 🧐 Still learn about infrastructure and data
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=technisekai&langs_count=5&theme=tokyonight)](https://github.com/technisekai/github-readme-stats)
 
